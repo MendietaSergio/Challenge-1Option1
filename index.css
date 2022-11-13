@@ -85,10 +85,6 @@ footer div img {
 }
 
 @media(min-width: 550px) {
-    body {
-        background-color: red;
-    }
-
     .container_body {
         width : 500px;
         margin: 0 auto;
